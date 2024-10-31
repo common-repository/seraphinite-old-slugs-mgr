@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Seraphinite Solutions
+# This file is distributed under the same license as the seraphinite-old-slugs-mgr package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: seraphinite-old-slugs-mgr 1.4\n"
+"Report-Msgid-Bugs-To: support@s-sols.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Seraphinite Alternative Slugs Manager
+msgid "Seraphinite Alternative Slugs Manager"
+msgstr ""
+
+# Avoid URL redirection errors by managing old and alternative slugs to improve SEO.
+msgid ""
+"Avoid URL redirection errors by managing old and alternative slugs to "
+"improve SEO."
+msgstr ""
+
+# https://www.s-sols.com
+msgid "https://www.s-sols.com"
+msgstr ""
+
+# Seraphinite Solutions
+msgid "Seraphinite Solutions"
+msgstr ""
+
+# http://wordpress.org/plugins/seraphinite-old-slugs-mgr
+msgid "http://wordpress.org/plugins/seraphinite-old-slugs-mgr"
+msgstr ""
